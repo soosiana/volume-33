@@ -21,7 +21,7 @@ Grego, J, Šteffek, J., 2016. The Biodiversity of Hispaniolan Mollusca. _Soosian
 Keresztes B., 2016. A cirádás éticsiga [Cornu aspersum (O. F. Müller, 1774)] újabb magyarországi lelőhelye. _Soosiana_, **33**: 31--38. [PDF](https://soosiana.github.io/volume-33/05_Soosiana_2016_33_Keresztes_31-38.pdf)
 
 
-Domokos T.(Wenz,1926) as well as some biophysical and biochemical notes, 2016. Is Drobacia maeotica a phantom species? Data on the shell morphology, genital morphology, autecology of Drobacia banatica (Rossmässler, 1838) and Drobacia maeotica (Wenz,1926) as well as some biophysical and biochemical notes. _Soosiana_, **33**: 39--58. [PDF](https://soosiana.github.io/volume-33/06_Soosiana_2016_33_Domokos_39-58.pdf)
+Domokos T., 2016. Is Drobacia maeotica a phantom species? Data on the shell morphology, genital morphology, autecology of Drobacia banatica (Rossmässler, 1838) and Drobacia maeotica (Wenz,1926) as well as some biophysical and biochemical notes. _Soosiana_, **33**: 39--58. [PDF](https://soosiana.github.io/volume-33/06_Soosiana_2016_33_Domokos_39-58.pdf)
 
 
 Domokos T., Lennert J., 2016. Újabb adat a Drobacia banatica (Mollusca: Gastropoda: Helicidae) héjmorfológiájához [Bazarul (Cetăţile) Someşului Cald, Bihor Mts., Romania]. _Soosiana_, **33**: 59--65. [PDF](https://soosiana.github.io/volume-33/07_Soosiana_2016_33_Domokos-Lennert_59-65.pdf)
